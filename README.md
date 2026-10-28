@@ -1,10 +1,10 @@
 # Bible Verse of the Day
 
-A daily Bible verse with context and reflection prompts, free and without an account.
+A daily Bible verse with context and reflection prompts.
 
 ## Links
 
-- [Bible Verse of the Day](https://bibleverseoftheday.pro/)
+- [Bible verse of the day](https://bibleverseoftheday.pro/)
 
 - [Main site](https://bibleverseoftheday.pro/)
 
